@@ -42,7 +42,7 @@ A mobile app for ordering food online with a smooth user experience and secure p
 ---
 
 ## 📫 How to reach me
-- **Email**: [your-email@gmail.com](mailto:tranthephong101@gmail.com)
+- **Email**: [tranthephong101@gmail.com](mailto:tranthephong101@gmail.com)
 
 ---
 
