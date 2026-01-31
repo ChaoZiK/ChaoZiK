@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Phong
 
 🎓 **Final-Year Computer Science Student** at **Vietnam National University HCMC - International University**  
-💻 **Aspiring Mobile Developer** | 💡 Passionate about building impactful applications  
 
 ---
 
@@ -15,7 +14,6 @@
 
 - **Frameworks & Libraries**:  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 - **Tools & Platforms**:  
@@ -23,21 +21,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. [**FoodDeliveryApp**](https://github.com/ChaoZiK/FoodDeliveryApp)  
-**Tech Stack**: Kotlin, SQLite, Firebase  
-A mobile app for ordering food online with a smooth user experience and secure payment integration.
-
----
-
-## 📊 GitHub Stats
-
-![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaoZiK&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoZiK&layout=compact&theme=radical)
 
 ---
 
